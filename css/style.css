@@ -1,0 +1,60 @@
+body {
+	 padding-bottom: 70px; 
+	background-image:url("../images/background.jpg");
+	color:black;
+	font-family: 'Luckiest Guy', cursive;
+	}
+
+header{
+	color:black;
+	height:85px;
+	margin:20px;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 50px;
+	text-align:center;
+	margin-top:10px;
+}
+h2{
+	font-size:18px;
+	font-weight:bold;
+	color:#4aaaa5;
+}
+.container{
+	color:black;
+	text-align:center;
+	font-family: 'Luckiest Guy', cursive;
+	border:10px white;
+	margin:10px;
+	
+	
+
+}
+
+
+.container2{
+	padding:10px;
+}
+.random{
+	padding:40px;
+	height:100px;
+	width:100px;
+	clear:left;
+	background-color:white;
+	font-family: 'Luckiest Guy', cursive;
+
+}
+.score{
+	padding:40px;
+	height:100px;
+	width:100px;
+	clear:left;
+	background-color:white;
+	font-family: 'Luckiest Guy', cursive;
+}
+
+.rules{
+	font-size:24px;
+	font-family: 'Luckiest Guy', cursive;
+	color:black;
+
+}
